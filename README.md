@@ -2,7 +2,7 @@
 ## About The Projects
 
 # APk file address : 
- TowerDefense : strategy
+ TowerDefense : Strategy
  
 [![TowerDefense.APK][towerdefense.apk]](https://github.com/miladEsk/Projects/releases)
 
@@ -15,7 +15,7 @@
  
   [![SpaceShip.zip][spaceship.zip]](https://github.com/miladEsk/Projects)
   
- RollTheBall : Hypercasual
+ RollTheBall : Hyper-casual
  
   [![RollTheBall.zip][rolltheball.zip]](https://github.com/miladEsk/Projects)
   
